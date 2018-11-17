@@ -1,8 +1,8 @@
 # GOC-EVRPTW
-这是京东GOC城市物流运输车辆智能调度比赛前50名的一个解决方案。＜/br＞
+这是京东GOC城市物流运输车辆智能调度比赛前50名的一个解决方案。  
 赛题链接：https://jdata.jd.com/html/detail.html?id=5＜/br＞
 
-###赛题简析＜/br＞
+###赛题简析＜/br＞  
 该题目的VRP考虑了电车的多循环和充电问题。＜/br＞
 题目要求综合成本最少，综合成本是运输成本，等待成本, 充电成本和固定成本的总和，即为目标函数。＜/br＞
 对于约束条件，这里有VRP中常见的最大容量约束(CVRP)、时间窗口约束(VRPTW)、混合车辆约束(Heterogeneous Fleet VRP)、多循环约束(Multi-trip VRP)、带充电站的电车里程约束(Electric VRP with Recharging Stations)。＜/br＞
