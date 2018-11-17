@@ -13,5 +13,6 @@
 2.分区之后利用遗传算法求解每一个较大区域的遗传问题，并且将方法一中的较优解作为遗传算法的初始种群。
 
 ### Requirements  
-* python3  
-* gurobi
+* python3.6  
+* gurobi7.0
+* pandas0.23.1  
